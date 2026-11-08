@@ -72,8 +72,9 @@ Python 3.11; see `requirements.txt`. Tested on Windows 11 and Linux.
 
 ## Citation
 
-If you use this code or the recovered sample labels, please cite the manuscript above. A versioned
-snapshot with a persistent DOI will be archived on Zenodo at acceptance; the DOI will be added here.
+If you use this code or the recovered sample labels, please cite the manuscript above. The code is
+maintained at <https://github.com/xushengqiu2026/blood-bone-signature>, which is the canonical source
+for the version used in the manuscript. Issues and corrections are welcome there.
 
 ## Licence
 
